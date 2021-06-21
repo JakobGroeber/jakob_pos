@@ -10,6 +10,15 @@ public class MainAppl {
 		
 		player = new Player(10, "Kalajdzic", "Defense");
 		System.out.println("== " +player);
+		
+		Player player = new Player(4, "Hinteregger", "Defense");
+		System.out.println("== " +player);
+		
+		Player player = new Player(2, "Dragovic", "Defense");
+		System.out.println("== " +player);
+		
+		Player player = new Player(11, "Arnautivic", "Striker");
+		System.out.println("== " +player);
 	}
 	
 
